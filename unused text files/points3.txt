@@ -1,0 +1,595 @@
+Trajectory 176
+	Point 1: x=18.6 y=11.8 user=176 Wed Mar 23 04:37:26 PST 12
+	Point 5: x=18.0 y=14.8 user=176 Wed Mar 23 04:45:01 PST 12
+	Point 6: x=18.6 y=11.8 user=176 Wed Mar 23 04:47:08 PST 12
+Trajectory 177
+	Point 1: x=18.6 y=11.8 user=177 Wed Mar 23 10:06:35 PST 12
+	Point 5: x=10.8 y=16.4 user=177 Wed Mar 23 10:14:34 PST 12
+	Point 8: x=10.4 y=16.7 user=177 Wed Mar 23 10:20:43 PST 12
+	Point 13: x=9.0 y=17.9 user=177 Wed Mar 23 10:30:33 PST 12
+	Point 15: x=10.6 y=17.3 user=177 Wed Mar 23 10:34:33 PST 12
+	Point 16: x=8.6 y=16.5 user=177 Wed Mar 23 10:36:33 PST 12
+	Point 17: x=9.9 y=15.7 user=177 Wed Mar 23 10:38:33 PST 12
+	Point 18: x=11.3 y=16.2 user=177 Wed Mar 23 10:40:33 PST 12
+	Point 19: x=22.8 y=15.9 user=177 Wed Mar 23 10:42:33 PST 12
+	Point 20: x=11.8 y=19.0 user=177 Wed Mar 23 10:44:32 PST 12
+	Point 21: x=11.0 y=17.0 user=177 Wed Mar 23 10:46:33 PST 12
+	Point 22: x=18.6 y=11.8 user=177 Wed Mar 23 10:48:33 PST 12
+Trajectory 178
+	Point 1: x=18.6 y=11.8 user=178 Wed Mar 23 15:08:25 PST 12
+	Point 4: x=20.2 y=14.3 user=178 Wed Mar 23 15:14:18 PST 12
+	Point 5: x=18.1 y=14.7 user=178 Wed Mar 23 15:16:18 PST 12
+	Point 6: x=18.6 y=11.8 user=178 Wed Mar 23 15:18:25 PST 12
+Trajectory 179
+	Point 1: x=18.6 y=11.8 user=179 Wed Mar 23 15:26:15 PST 12
+	Point 3: x=19.3 y=15.8 user=179 Wed Mar 23 15:30:26 PST 12
+	Point 4: x=17.1 y=14.4 user=179 Wed Mar 23 15:34:17 PST 12
+	Point 5: x=16.8 y=14.3 user=179 Wed Mar 23 15:36:23 PST 12
+	Point 6: x=20.5 y=13.6 user=179 Wed Mar 23 15:38:22 PST 12
+	Point 7: x=18.6 y=11.8 user=179 Wed Mar 23 15:40:23 PST 12
+Trajectory 180
+	Point 1: x=18.6 y=11.8 user=180 Wed Mar 23 15:40:23 PST 12
+	Point 3: x=17.3 y=14.4 user=180 Wed Mar 23 15:44:14 PST 12
+	Point 6: x=17.3 y=15.7 user=180 Wed Mar 23 15:52:19 PST 12
+	Point 10: x=17.9 y=21.9 user=180 Wed Mar 23 16:00:19 PST 12
+	Point 11: x=17.0 y=15.5 user=180 Wed Mar 23 16:02:25 PST 12
+	Point 17: x=17.2 y=15.1 user=180 Wed Mar 23 16:14:26 PST 12
+	Point 20: x=17.9 y=15.4 user=180 Wed Mar 23 16:20:25 PST 12
+	Point 21: x=18.8 y=15.5 user=180 Wed Mar 23 16:24:25 PST 12
+	Point 22: x=20.0 y=13.5 user=180 Wed Mar 23 16:26:24 PST 12
+	Point 23: x=18.6 y=11.8 user=180 Wed Mar 23 16:28:14 PST 12
+Trajectory 181
+	Point 1: x=18.6 y=11.8 user=181 Wed Mar 23 16:28:14 PST 12
+	Point 6: x=17.3 y=15.3 user=181 Wed Mar 23 16:40:13 PST 12
+	Point 7: x=16.7 y=14.7 user=181 Wed Mar 23 16:42:17 PST 12
+	Point 10: x=16.9 y=14.9 user=181 Wed Mar 23 16:48:21 PST 12
+	Point 13: x=17.2 y=14.7 user=181 Wed Mar 23 16:56:22 PST 12
+	Point 16: x=18.4 y=12.3 user=181 Wed Mar 23 17:08:13 PST 12
+	Point 19: x=17.8 y=15.6 user=181 Wed Mar 23 17:14:13 PST 12
+	Point 28: x=17.5 y=13.9 user=181 Wed Mar 23 17:36:14 PST 12
+	Point 29: x=18.6 y=11.8 user=181 Wed Mar 23 17:38:10 PST 12
+Trajectory 182
+	Point 1: x=18.6 y=11.8 user=182 Wed Mar 23 17:38:10 PST 12
+	Point 3: x=16.6 y=16.1 user=182 Wed Mar 23 17:42:15 PST 12
+	Point 7: x=16.4 y=14.7 user=182 Wed Mar 23 17:52:09 PST 12
+	Point 16: x=16.7 y=15.1 user=182 Wed Mar 23 18:10:07 PST 12
+	Point 20: x=15.1 y=19.5 user=182 Wed Mar 23 18:18:06 PST 12
+	Point 21: x=18.7 y=15.7 user=182 Wed Mar 23 18:20:07 PST 12
+	Point 22: x=18.6 y=11.8 user=182 Wed Mar 23 18:22:05 PST 12
+Trajectory 183
+	Point 1: x=18.6 y=11.8 user=183 Wed Mar 23 18:22:05 PST 12
+	Point 3: x=17.2 y=16.8 user=183 Wed Mar 23 18:26:04 PST 12
+	Point 5: x=17.1 y=15.4 user=183 Wed Mar 23 18:32:11 PST 12
+	Point 6: x=16.3 y=15.2 user=183 Wed Mar 23 18:34:08 PST 12
+	Point 8: x=16.2 y=15.0 user=183 Wed Mar 23 18:40:09 PST 12
+	Point 12: x=16.7 y=15.9 user=183 Wed Mar 23 18:56:10 PST 12
+	Point 15: x=16.6 y=15.1 user=183 Wed Mar 23 19:02:09 PST 12
+	Point 16: x=18.6 y=11.8 user=183 Wed Mar 23 19:04:09 PST 12
+Trajectory 184
+	Point 1: x=18.6 y=11.8 user=184 Wed Mar 23 19:04:09 PST 12
+	Point 6: x=17.0 y=15.4 user=184 Wed Mar 23 19:14:07 PST 12
+	Point 7: x=18.6 y=11.8 user=184 Wed Mar 23 19:16:07 PST 12
+Trajectory 185
+	Point 1: x=18.6 y=11.8 user=185 Wed Mar 23 20:53:55 PST 12
+	Point 27: x=17.6 y=15.4 user=185 Wed Mar 23 21:45:54 PST 12
+	Point 28: x=18.6 y=11.8 user=185 Wed Mar 23 21:48:11 PST 12
+Trajectory 186
+	Point 1: x=18.6 y=11.8 user=186 Wed Mar 23 23:19:40 PST 12
+	Point 6: x=17.2 y=15.6 user=186 Wed Mar 23 23:29:40 PST 12
+	Point 7: x=17.0 y=14.4 user=186 Wed Mar 23 23:31:42 PST 12
+	Point 8: x=18.6 y=11.8 user=186 Wed Mar 23 23:33:39 PST 12
+Trajectory 187
+	Point 1: x=18.6 y=11.8 user=187 Wed Mar 23 23:33:39 PST 12
+	Point 13: x=17.5 y=15.7 user=187 Wed Mar 23 23:57:50 PST 12
+	Point 14: x=18.6 y=11.8 user=187 Wed Mar 23 23:59:50 PST 12
+Trajectory 188
+	Point 1: x=18.6 y=11.8 user=188 Thu Mar 24 02:09:27 PST 12
+	Point 8: x=17.5 y=15.8 user=188 Thu Mar 24 02:23:35 PST 12
+	Point 9: x=18.6 y=11.8 user=188 Thu Mar 24 02:25:37 PST 12
+Trajectory 189
+	Point 1: x=18.6 y=11.8 user=189 Thu Mar 24 04:23:18 PST 12
+	Point 8: x=17.5 y=15.6 user=189 Thu Mar 24 04:37:21 PST 12
+	Point 9: x=18.6 y=11.8 user=189 Thu Mar 24 04:39:19 PST 12
+Trajectory 190
+	Point 1: x=18.6 y=11.8 user=190 Thu Mar 24 05:07:15 PST 12
+	Point 10: x=16.1 y=18.9 user=190 Thu Mar 24 05:25:23 PST 12
+	Point 11: x=18.6 y=11.8 user=190 Thu Mar 24 05:27:23 PST 12
+Trajectory 191
+	Point 1: x=18.6 y=11.8 user=191 Thu Mar 24 05:27:23 PST 12
+	Point 16: x=17.5 y=15.6 user=191 Thu Mar 24 05:57:11 PST 12
+	Point 17: x=18.6 y=11.8 user=191 Thu Mar 24 05:59:12 PST 12
+Trajectory 192
+	Point 1: x=18.6 y=11.8 user=192 Thu Mar 24 05:59:12 PST 12
+	Point 11: x=18.1 y=15.6 user=192 Thu Mar 24 06:19:13 PST 12
+	Point 20: x=17.3 y=15.8 user=192 Thu Mar 24 06:37:07 PST 12
+	Point 21: x=18.6 y=11.8 user=192 Thu Mar 24 06:39:13 PST 12
+Trajectory 193
+	Point 1: x=18.6 y=11.8 user=193 Thu Mar 24 07:27:05 PST 12
+	Point 8: x=17.5 y=15.7 user=193 Thu Mar 24 07:41:05 PST 12
+	Point 9: x=18.6 y=11.8 user=193 Thu Mar 24 07:43:05 PST 12
+Trajectory 194
+	Point 1: x=18.6 y=11.8 user=194 Thu Mar 24 10:42:53 PST 12
+	Point 10: x=17.5 y=15.7 user=194 Thu Mar 24 11:00:52 PST 12
+	Point 20: x=16.6 y=19.7 user=194 Thu Mar 24 11:20:50 PST 12
+	Point 21: x=18.6 y=11.8 user=194 Thu Mar 24 11:22:50 PST 12
+Trajectory 195
+	Point 1: x=18.6 y=11.8 user=195 Thu Mar 24 11:44:49 PST 12
+	Point 4: x=18.2 y=15.5 user=195 Thu Mar 24 11:50:48 PST 12
+	Point 5: x=19.4 y=25.7 user=195 Thu Mar 24 11:52:48 PST 12
+	Point 6: x=18.6 y=11.8 user=195 Thu Mar 24 11:54:48 PST 12
+Trajectory 196
+	Point 1: x=18.6 y=11.8 user=196 Thu Mar 24 12:30:46 PST 12
+	Point 3: x=17.3 y=15.7 user=196 Thu Mar 24 12:34:46 PST 12
+	Point 5: x=16.7 y=15.1 user=196 Thu Mar 24 12:38:46 PST 12
+	Point 6: x=18.6 y=11.8 user=196 Thu Mar 24 12:40:45 PST 12
+Trajectory 197
+	Point 1: x=18.6 y=11.8 user=197 Thu Mar 24 14:23:52 PST 12
+	Point 6: x=17.4 y=14.9 user=197 Thu Mar 24 14:33:41 PST 12
+	Point 7: x=18.6 y=11.8 user=197 Thu Mar 24 14:35:42 PST 12
+Trajectory 198
+	Point 1: x=18.6 y=11.8 user=198 Thu Mar 24 18:49:23 PST 12
+	Point 8: x=19.6 y=14.4 user=198 Thu Mar 24 19:03:22 PST 12
+	Point 21: x=19.1 y=14.6 user=198 Thu Mar 24 19:29:20 PST 12
+	Point 33: x=20.2 y=18.7 user=198 Thu Mar 24 19:57:17 PST 12
+	Point 34: x=17.6 y=13.1 user=198 Thu Mar 24 19:59:14 PST 12
+	Point 35: x=17.6 y=13.9 user=198 Thu Mar 24 20:01:15 PST 12
+	Point 39: x=17.7 y=13.8 user=198 Thu Mar 24 20:09:14 PST 12
+	Point 40: x=18.6 y=11.8 user=198 Thu Mar 24 20:11:17 PST 12
+Trajectory 199
+	Point 1: x=18.6 y=11.8 user=199 Thu Mar 24 20:11:17 PST 12
+	Point 13: x=19.4 y=15.4 user=199 Thu Mar 24 20:41:12 PST 12
+	Point 15: x=18.7 y=15.5 user=199 Thu Mar 24 20:45:15 PST 12
+	Point 22: x=18.8 y=14.6 user=199 Thu Mar 24 20:59:19 PST 12
+	Point 25: x=19.4 y=13.7 user=199 Thu Mar 24 21:05:17 PST 12
+	Point 34: x=19.1 y=14.4 user=199 Thu Mar 24 21:23:09 PST 12
+	Point 35: x=18.6 y=11.8 user=199 Thu Mar 24 21:25:08 PST 12
+Trajectory 200
+	Point 1: x=18.6 y=11.8 user=200 Thu Mar 24 21:25:08 PST 12
+	Point 5: x=19.3 y=14.5 user=200 Thu Mar 24 21:35:11 PST 12
+	Point 6: x=18.6 y=11.8 user=200 Thu Mar 24 21:37:11 PST 12
+Trajectory 201
+	Point 1: x=18.6 y=11.8 user=201 Thu Mar 24 22:03:11 PST 12
+	Point 21: x=19.0 y=14.8 user=201 Thu Mar 24 22:45:02 PST 12
+	Point 22: x=18.6 y=11.8 user=201 Thu Mar 24 22:47:02 PST 12
+Trajectory 202
+	Point 1: x=18.6 y=11.8 user=202 Thu Mar 24 22:47:02 PST 12
+	Point 7: x=19.0 y=15.7 user=202 Thu Mar 24 22:59:10 PST 12
+	Point 9: x=18.9 y=15.8 user=202 Thu Mar 24 23:03:00 PST 12
+	Point 41: x=18.5 y=15.1 user=202 Fri Mar 25 00:04:57 PST 12
+	Point 46: x=18.4 y=15.0 user=202 Fri Mar 25 00:14:57 PST 12
+	Point 49: x=19.0 y=15.0 user=202 Fri Mar 25 00:24:57 PST 12
+	Point 60: x=19.7 y=15.9 user=202 Fri Mar 25 00:46:57 PST 12
+	Point 62: x=18.8 y=15.0 user=202 Fri Mar 25 00:51:09 PST 12
+	Point 65: x=18.5 y=14.9 user=202 Fri Mar 25 00:58:57 PST 12
+	Point 66: x=18.6 y=11.8 user=202 Fri Mar 25 01:00:56 PST 12
+Trajectory 203
+	Point 1: x=18.6 y=11.8 user=203 Fri Mar 25 01:00:56 PST 12
+	Point 12: x=19.0 y=15.0 user=203 Fri Mar 25 01:24:58 PST 12
+	Point 14: x=19.1 y=14.9 user=203 Fri Mar 25 01:28:57 PST 12
+	Point 19: x=18.9 y=15.0 user=203 Fri Mar 25 01:39:06 PST 12
+	Point 20: x=18.6 y=11.8 user=203 Fri Mar 25 01:40:57 PST 12
+Trajectory 204
+	Point 1: x=18.6 y=11.8 user=204 Fri Mar 25 01:55:04 PST 12
+	Point 3: x=18.1 y=14.7 user=204 Fri Mar 25 02:11:13 PST 12
+	Point 10: x=18.7 y=15.1 user=204 Fri Mar 25 02:26:53 PST 12
+	Point 13: x=18.2 y=15.3 user=204 Fri Mar 25 02:36:58 PST 12
+	Point 14: x=18.6 y=11.8 user=204 Fri Mar 25 02:41:04 PST 12
+Trajectory 205
+	Point 1: x=18.6 y=11.8 user=205 Fri Mar 25 02:41:04 PST 12
+	Point 76: x=18.7 y=15.2 user=205 Fri Mar 25 05:16:38 PST 12
+	Point 79: x=18.7 y=15.0 user=205 Fri Mar 25 05:22:41 PST 12
+	Point 82: x=18.6 y=15.0 user=205 Fri Mar 25 05:28:37 PST 12
+	Point 83: x=18.6 y=11.8 user=205 Fri Mar 25 05:30:36 PST 12
+Trajectory 206
+	Point 1: x=18.6 y=11.8 user=206 Fri Mar 25 05:34:37 PST 12
+	Point 103: x=18.5 y=14.9 user=206 Fri Mar 25 09:08:20 PST 12
+	Point 104: x=18.6 y=11.8 user=206 Fri Mar 25 09:10:23 PST 12
+Trajectory 207
+	Point 1: x=18.6 y=11.8 user=207 Fri Mar 25 09:10:23 PST 12
+	Point 27: x=18.5 y=15.0 user=207 Fri Mar 25 10:16:20 PST 12
+	Point 28: x=18.6 y=11.8 user=207 Fri Mar 25 10:18:27 PST 12
+Trajectory 208
+	Point 1: x=18.6 y=11.8 user=208 Fri Mar 25 10:18:27 PST 12
+	Point 7: x=18.3 y=14.9 user=208 Fri Mar 25 10:28:28 PST 12
+	Point 8: x=17.7 y=14.5 user=208 Fri Mar 25 10:30:27 PST 12
+	Point 10: x=18.4 y=15.0 user=208 Fri Mar 25 10:36:24 PST 12
+	Point 11: x=18.6 y=11.8 user=208 Fri Mar 25 10:38:27 PST 12
+Trajectory 209
+	Point 1: x=18.6 y=11.8 user=209 Fri Mar 25 10:38:27 PST 12
+	Point 18: x=18.5 y=15.0 user=209 Fri Mar 25 11:16:10 PST 12
+	Point 19: x=18.6 y=11.8 user=209 Fri Mar 25 11:18:10 PST 12
+Trajectory 210
+	Point 1: x=18.6 y=11.8 user=210 Fri Mar 25 11:18:10 PST 12
+	Point 21: x=18.7 y=14.9 user=210 Fri Mar 25 12:00:18 PST 12
+	Point 25: x=19.0 y=15.0 user=210 Fri Mar 25 12:08:10 PST 12
+	Point 31: x=19.1 y=14.8 user=210 Fri Mar 25 12:22:09 PST 12
+	Point 42: x=18.9 y=15.0 user=210 Fri Mar 25 12:44:08 PST 12
+	Point 43: x=18.8 y=15.0 user=210 Fri Mar 25 12:46:07 PST 12
+	Point 102: x=18.1 y=14.8 user=210 Fri Mar 25 15:05:55 PST 12
+	Point 103: x=18.6 y=11.8 user=210 Fri Mar 25 15:08:05 PST 12
+Trajectory 211
+	Point 1: x=18.6 y=11.8 user=211 Fri Mar 25 15:35:54 PST 12
+	Point 11: x=17.9 y=14.7 user=211 Fri Mar 25 15:55:52 PST 12
+	Point 12: x=18.6 y=11.8 user=211 Fri Mar 25 15:57:52 PST 12
+Trajectory 212
+	Point 1: x=18.6 y=11.8 user=212 Fri Mar 25 17:29:44 PST 12
+	Point 15: x=18.5 y=13.4 user=212 Fri Mar 25 17:57:50 PST 12
+	Point 16: x=18.6 y=11.8 user=212 Fri Mar 25 17:59:41 PST 12
+Trajectory 213
+	Point 1: x=18.6 y=11.8 user=213 Fri Mar 25 19:07:34 PST 12
+	Point 8: x=19.5 y=15.2 user=213 Fri Mar 25 19:23:34 PST 12
+	Point 9: x=18.6 y=11.8 user=213 Fri Mar 25 19:27:34 PST 12
+Trajectory 214
+	Point 1: x=18.6 y=11.8 user=214 Fri Mar 25 22:35:34 PST 12
+	Point 7: x=19.2 y=14.8 user=214 Fri Mar 25 22:53:22 PST 12
+	Point 8: x=18.6 y=11.8 user=214 Fri Mar 25 22:55:29 PST 12
+Trajectory 215
+	Point 1: x=18.6 y=11.8 user=215 Fri Mar 25 22:55:29 PST 12
+	Point 8: x=19.5 y=14.7 user=215 Fri Mar 25 23:09:20 PST 12
+	Point 9: x=18.6 y=11.8 user=215 Fri Mar 25 23:11:19 PST 12
+Trajectory 216
+	Point 1: x=18.6 y=11.8 user=216 Sat Mar 26 00:15:20 PST 12
+	Point 10: x=19.4 y=14.7 user=216 Sat Mar 26 00:33:26 PST 12
+	Point 12: x=18.7 y=14.8 user=216 Sat Mar 26 00:37:24 PST 12
+	Point 13: x=18.6 y=11.8 user=216 Sat Mar 26 00:39:14 PST 12
+Trajectory 217
+	Point 1: x=18.6 y=11.8 user=217 Sat Mar 26 05:53:00 PST 12
+	Point 6: x=19.3 y=15.5 user=217 Sat Mar 26 06:03:03 PST 12
+	Point 11: x=19.0 y=15.4 user=217 Sat Mar 26 06:12:58 PST 12
+	Point 12: x=17.8 y=13.8 user=217 Sat Mar 26 06:14:57 PST 12
+	Point 13: x=18.6 y=11.8 user=217 Sat Mar 26 06:16:56 PST 12
+Trajectory 218
+	Point 1: x=18.6 y=11.8 user=218 Sat Mar 26 09:18:47 PST 12
+	Point 6: x=19.9 y=15.0 user=218 Sat Mar 26 09:30:47 PST 12
+	Point 30: x=20.1 y=14.9 user=218 Sat Mar 26 10:24:37 PST 12
+	Point 31: x=18.6 y=11.8 user=218 Sat Mar 26 10:26:39 PST 12
+Trajectory 219
+	Point 1: x=18.6 y=11.8 user=219 Sat Mar 26 11:06:32 PST 12
+	Point 6: x=19.7 y=14.5 user=219 Sat Mar 26 11:16:32 PST 12
+	Point 7: x=18.6 y=11.8 user=219 Sat Mar 26 11:18:30 PST 12
+Trajectory 220
+	Point 1: x=18.6 y=11.8 user=220 Sat Mar 26 14:04:19 PST 12
+	Point 3: x=17.9 y=13.0 user=220 Sat Mar 26 14:08:19 PST 12
+	Point 5: x=18.4 y=12.5 user=220 Sat Mar 26 14:12:19 PST 12
+	Point 6: x=18.6 y=11.8 user=220 Sat Mar 26 14:14:18 PST 12
+Trajectory 221
+	Point 1: x=18.6 y=11.8 user=221 Sat Mar 26 14:14:18 PST 12
+	Point 3: x=17.6 y=13.2 user=221 Sat Mar 26 14:18:17 PST 12
+	Point 7: x=18.3 y=12.6 user=221 Sat Mar 26 14:26:17 PST 12
+	Point 8: x=18.6 y=11.8 user=221 Sat Mar 26 14:28:17 PST 12
+Trajectory 222
+	Point 1: x=18.6 y=11.8 user=222 Sat Mar 26 18:06:04 PST 12
+	Point 4: x=19.9 y=15.3 user=222 Sat Mar 26 18:12:11 PST 12
+	Point 5: x=18.9 y=14.8 user=222 Sat Mar 26 18:14:01 PST 12
+	Point 6: x=18.6 y=11.8 user=222 Sat Mar 26 18:16:01 PST 12
+Trajectory 223
+	Point 1: x=18.6 y=11.8 user=223 Sat Mar 26 22:35:45 PST 12
+	Point 5: x=17.3 y=15.1 user=223 Sat Mar 26 22:43:59 PST 12
+	Point 7: x=16.4 y=15.0 user=223 Sat Mar 26 22:49:44 PST 12
+	Point 10: x=16.9 y=15.3 user=223 Sat Mar 26 22:57:47 PST 12
+	Point 11: x=18.6 y=11.8 user=223 Sat Mar 26 22:59:42 PST 12
+Trajectory 224
+	Point 1: x=18.6 y=11.8 user=224 Sun Mar 27 01:41:36 PST 12
+	Point 8: x=16.6 y=15.2 user=224 Sun Mar 27 02:01:46 PST 12
+	Point 9: x=18.6 y=11.8 user=224 Sun Mar 27 02:03:36 PST 12
+Trajectory 225
+	Point 1: x=18.6 y=11.8 user=225 Sun Mar 27 08:14:55 PST 12
+	Point 6: x=18.1 y=14.8 user=225 Sun Mar 27 08:25:00 PST 12
+	Point 7: x=18.6 y=11.8 user=225 Sun Mar 27 08:28:59 PST 12
+Trajectory 226
+	Point 1: x=18.6 y=11.8 user=226 Sun Apr 03 04:35:45 PST 12
+	Point 20: x=16.1 y=15.2 user=226 Sun Apr 03 05:13:32 PST 12
+	Point 22: x=15.8 y=15.6 user=226 Sun Apr 03 05:17:52 PST 12
+	Point 23: x=18.6 y=11.8 user=226 Sun Apr 03 05:19:45 PST 12
+Trajectory 227
+	Point 1: x=18.6 y=11.8 user=227 Tue Apr 05 13:51:05 PST 12
+	Point 3: x=18.2 y=16.3 user=227 Tue Apr 05 13:55:04 PST 12
+	Point 5: x=18.5 y=16.5 user=227 Tue Apr 05 13:59:04 PST 12
+	Point 9: x=18.3 y=16.4 user=227 Tue Apr 05 14:07:03 PST 12
+	Point 10: x=18.6 y=11.8 user=227 Tue Apr 05 14:09:04 PST 12
+Trajectory 228
+	Point 1: x=18.6 y=11.8 user=228 Tue Apr 05 15:26:57 PST 12
+	Point 4: x=17.0 y=15.8 user=228 Tue Apr 05 15:32:57 PST 12
+	Point 5: x=14.7 y=16.0 user=228 Tue Apr 05 15:34:57 PST 12
+	Point 6: x=18.6 y=11.8 user=228 Tue Apr 05 15:36:56 PST 12
+Trajectory 229
+	Point 1: x=18.6 y=11.8 user=229 Tue Apr 05 18:04:53 PST 12
+	Point 3: x=12.6 y=13.0 user=229 Tue Apr 05 18:08:54 PST 12
+	Point 4: x=18.7 y=16.0 user=229 Tue Apr 05 18:10:51 PST 12
+	Point 5: x=21.8 y=14.9 user=229 Tue Apr 05 18:12:42 PST 12
+	Point 6: x=22.0 y=14.7 user=229 Tue Apr 05 18:14:48 PST 12
+	Point 8: x=23.1 y=17.0 user=229 Tue Apr 05 18:18:47 PST 12
+	Point 11: x=24.8 y=18.4 user=229 Tue Apr 05 18:26:47 PST 12
+	Point 12: x=22.2 y=14.9 user=229 Tue Apr 05 18:28:44 PST 12
+	Point 13: x=25.3 y=15.8 user=229 Tue Apr 05 18:30:50 PST 12
+	Point 16: x=25.1 y=14.5 user=229 Tue Apr 05 18:36:46 PST 12
+	Point 19: x=28.2 y=13.9 user=229 Tue Apr 05 18:42:42 PST 12
+	Point 20: x=22.9 y=14.1 user=229 Tue Apr 05 18:44:48 PST 12
+	Point 21: x=26.9 y=15.2 user=229 Tue Apr 05 18:46:49 PST 12
+	Point 22: x=9.1 y=13.9 user=229 Tue Apr 05 18:48:43 PST 12
+	Point 23: x=9.1 y=12.0 user=229 Tue Apr 05 18:50:44 PST 12
+	Point 24: x=13.5 y=14.3 user=229 Tue Apr 05 18:52:42 PST 12
+	Point 25: x=9.1 y=13.5 user=229 Tue Apr 05 18:54:48 PST 12
+	Point 26: x=8.2 y=12.1 user=229 Tue Apr 05 18:56:49 PST 12
+	Point 27: x=16.5 y=14.3 user=229 Tue Apr 05 19:00:39 PST 12
+	Point 28: x=10.8 y=15.8 user=229 Tue Apr 05 19:02:47 PST 12
+	Point 32: x=8.8 y=16.3 user=229 Tue Apr 05 19:12:47 PST 12
+	Point 33: x=10.6 y=16.9 user=229 Tue Apr 05 19:14:47 PST 12
+	Point 34: x=8.5 y=18.4 user=229 Tue Apr 05 19:16:47 PST 12
+	Point 35: x=16.7 y=53.3 user=229 Tue Apr 05 19:18:35 PST 12
+	Point 36: x=11.3 y=17.7 user=229 Tue Apr 05 19:20:47 PST 12
+	Point 38: x=10.0 y=19.1 user=229 Tue Apr 05 19:24:46 PST 12
+	Point 39: x=10.7 y=18.6 user=229 Tue Apr 05 19:26:37 PST 12
+	Point 40: x=9.4 y=16.8 user=229 Tue Apr 05 19:28:37 PST 12
+	Point 41: x=12.1 y=15.1 user=229 Tue Apr 05 19:30:37 PST 12
+	Point 43: x=10.0 y=16.9 user=229 Tue Apr 05 19:34:37 PST 12
+	Point 45: x=14.5 y=14.5 user=229 Tue Apr 05 19:38:46 PST 12
+	Point 46: x=21.8 y=19.8 user=229 Tue Apr 05 19:40:45 PST 12
+	Point 47: x=30.1 y=18.4 user=229 Tue Apr 05 19:42:36 PST 12
+	Point 48: x=26.4 y=17.6 user=229 Tue Apr 05 19:46:36 PST 12
+	Point 49: x=15.6 y=15.2 user=229 Tue Apr 05 19:48:36 PST 12
+	Point 50: x=13.9 y=14.0 user=229 Tue Apr 05 19:50:36 PST 12
+	Point 52: x=14.5 y=14.3 user=229 Tue Apr 05 19:54:37 PST 12
+	Point 53: x=8.4 y=13.3 user=229 Tue Apr 05 19:56:36 PST 12
+	Point 55: x=10.0 y=13.5 user=229 Tue Apr 05 20:00:37 PST 12
+	Point 56: x=8.6 y=11.3 user=229 Tue Apr 05 20:02:36 PST 12
+	Point 57: x=10.0 y=15.7 user=229 Tue Apr 05 20:04:36 PST 12
+	Point 58: x=3.4 y=23.3 user=229 Tue Apr 05 20:06:37 PST 12
+	Point 59: x=8.0 y=11.8 user=229 Tue Apr 05 20:08:36 PST 12
+	Point 60: x=19.4 y=24.0 user=229 Tue Apr 05 20:10:36 PST 12
+	Point 61: x=17.4 y=15.7 user=229 Tue Apr 05 20:12:36 PST 12
+	Point 62: x=21.3 y=15.4 user=229 Tue Apr 05 20:14:44 PST 12
+	Point 65: x=21.8 y=17.3 user=229 Tue Apr 05 20:20:39 PST 12
+	Point 67: x=20.6 y=14.8 user=229 Tue Apr 05 20:26:37 PST 12
+	Point 68: x=16.5 y=15.4 user=229 Tue Apr 05 20:28:35 PST 12
+	Point 70: x=12.6 y=19.0 user=229 Tue Apr 05 20:38:41 PST 12
+	Point 71: x=48.0 y=1.2 user=229 Tue Apr 05 20:42:29 PST 12
+	Point 72: x=11.3 y=17.7 user=229 Tue Apr 05 20:46:41 PST 12
+	Point 84: x=13.4 y=17.0 user=229 Tue Apr 05 21:10:30 PST 12
+	Point 87: x=11.3 y=18.3 user=229 Tue Apr 05 21:16:38 PST 12
+	Point 88: x=20.9 y=16.5 user=229 Tue Apr 05 21:18:39 PST 12
+	Point 90: x=20.1 y=15.7 user=229 Tue Apr 05 21:22:29 PST 12
+	Point 91: x=11.7 y=17.9 user=229 Tue Apr 05 21:24:29 PST 12
+	Point 92: x=9.9 y=14.7 user=229 Tue Apr 05 21:26:29 PST 12
+	Point 93: x=17.8 y=14.5 user=229 Tue Apr 05 21:28:29 PST 12
+	Point 94: x=16.8 y=16.0 user=229 Tue Apr 05 21:30:29 PST 12
+	Point 95: x=23.2 y=16.0 user=229 Tue Apr 05 21:32:38 PST 12
+	Point 96: x=19.6 y=15.9 user=229 Tue Apr 05 21:34:27 PST 12
+	Point 99: x=19.2 y=15.1 user=229 Tue Apr 05 21:40:37 PST 12
+	Point 100: x=8.9 y=14.3 user=229 Tue Apr 05 21:42:38 PST 12
+	Point 101: x=12.9 y=13.0 user=229 Tue Apr 05 21:44:37 PST 12
+	Point 102: x=19.5 y=16.8 user=229 Tue Apr 05 21:46:38 PST 12
+	Point 103: x=22.1 y=17.5 user=229 Tue Apr 05 21:48:27 PST 12
+	Point 104: x=22.7 y=19.7 user=229 Tue Apr 05 21:50:26 PST 12
+	Point 105: x=14.4 y=15.4 user=229 Tue Apr 05 21:52:27 PST 12
+	Point 106: x=36.2 y=22.0 user=229 Tue Apr 05 21:54:26 PST 12
+	Point 107: x=27.8 y=15.5 user=229 Tue Apr 05 21:56:37 PST 12
+	Point 108: x=18.6 y=11.8 user=229 Tue Apr 05 21:58:26 PST 12
+Trajectory 230
+	Point 1: x=18.6 y=11.8 user=230 Wed Apr 06 22:43:55 PST 12
+	Point 6: x=16.5 y=14.2 user=230 Wed Apr 06 22:53:54 PST 12
+	Point 14: x=16.4 y=13.9 user=230 Wed Apr 06 23:09:53 PST 12
+	Point 15: x=18.6 y=11.8 user=230 Wed Apr 06 23:11:53 PST 12
+Trajectory 231
+	Point 1: x=18.6 y=11.8 user=231 Wed Apr 06 23:11:53 PST 12
+	Point 5: x=16.4 y=14.0 user=231 Wed Apr 06 23:22:05 PST 12
+	Point 9: x=16.6 y=13.9 user=231 Wed Apr 06 23:35:59 PST 12
+	Point 10: x=18.6 y=11.8 user=231 Wed Apr 06 23:37:53 PST 12
+Trajectory 232
+	Point 1: x=18.6 y=11.8 user=232 Thu Apr 07 15:22:41 PST 12
+	Point 8: x=17.0 y=14.1 user=232 Thu Apr 07 15:36:31 PST 12
+	Point 9: x=18.6 y=11.8 user=232 Thu Apr 07 15:38:36 PST 12
+Trajectory 233
+	Point 1: x=18.6 y=11.8 user=233 Thu Apr 07 23:53:52 PST 12
+	Point 5: x=17.7 y=14.4 user=233 Fri Apr 08 00:01:50 PST 12
+	Point 6: x=18.6 y=11.8 user=233 Fri Apr 08 00:03:51 PST 12
+Trajectory 234
+	Point 1: x=18.6 y=11.8 user=234 Fri Apr 08 03:57:32 PST 12
+	Point 8: x=17.7 y=14.4 user=234 Fri Apr 08 04:11:41 PST 12
+	Point 9: x=18.6 y=11.8 user=234 Fri Apr 08 04:13:40 PST 12
+Trajectory 235
+	Point 1: x=18.6 y=11.8 user=235 Fri Apr 08 05:55:29 PST 12
+	Point 11: x=17.6 y=14.3 user=235 Fri Apr 08 06:15:29 PST 12
+	Point 13: x=17.7 y=14.4 user=235 Fri Apr 08 06:19:29 PST 12
+	Point 14: x=18.6 y=11.8 user=235 Fri Apr 08 06:21:29 PST 12
+Trajectory 236
+	Point 1: x=18.6 y=11.8 user=236 Fri Apr 08 06:21:29 PST 12
+	Point 6: x=17.7 y=14.7 user=236 Fri Apr 08 06:31:23 PST 12
+	Point 8: x=17.8 y=14.5 user=236 Fri Apr 08 06:35:27 PST 12
+	Point 9: x=18.6 y=11.8 user=236 Fri Apr 08 06:37:22 PST 12
+Trajectory 237
+	Point 1: x=18.6 y=11.8 user=237 Fri Apr 08 07:45:17 PST 12
+	Point 6: x=17.5 y=14.5 user=237 Fri Apr 08 07:55:17 PST 12
+	Point 7: x=18.6 y=11.8 user=237 Fri Apr 08 07:57:16 PST 12
+Trajectory 238
+	Point 1: x=18.6 y=11.8 user=238 Fri Apr 08 09:19:15 PST 12
+	Point 4: x=17.4 y=13.7 user=238 Fri Apr 08 09:25:14 PST 12
+	Point 5: x=17.6 y=14.3 user=238 Fri Apr 08 09:27:24 PST 12
+	Point 6: x=18.6 y=11.8 user=238 Fri Apr 08 09:29:22 PST 12
+Trajectory 239
+	Point 1: x=18.6 y=11.8 user=239 Fri Apr 08 10:07:24 PST 12
+	Point 7: x=17.4 y=14.4 user=239 Fri Apr 08 10:19:20 PST 12
+	Point 8: x=17.6 y=14.3 user=239 Fri Apr 08 10:21:22 PST 12
+	Point 9: x=18.6 y=11.8 user=239 Fri Apr 08 10:23:14 PST 12
+Trajectory 240
+	Point 1: x=18.6 y=11.8 user=240 Fri Apr 08 16:56:47 PST 12
+	Point 7: x=17.8 y=14.7 user=240 Fri Apr 08 17:08:54 PST 12
+	Point 8: x=18.6 y=11.8 user=240 Fri Apr 08 17:10:46 PST 12
+Trajectory 241
+	Point 1: x=18.6 y=11.8 user=241 Fri Apr 08 20:22:26 PST 12
+	Point 4: x=17.8 y=14.9 user=241 Fri Apr 08 20:30:22 PST 12
+	Point 14: x=17.9 y=14.8 user=241 Fri Apr 08 20:50:12 PST 12
+	Point 16: x=18.1 y=14.8 user=241 Fri Apr 08 20:54:14 PST 12
+	Point 17: x=18.6 y=11.8 user=241 Fri Apr 08 20:56:12 PST 12
+Trajectory 242
+	Point 1: x=18.6 y=11.8 user=242 Sat Apr 09 02:07:54 PST 12
+	Point 7: x=17.6 y=14.0 user=242 Sat Apr 09 02:19:47 PST 12
+	Point 8: x=18.6 y=11.8 user=242 Sat Apr 09 02:21:47 PST 12
+Trajectory 243
+	Point 1: x=18.6 y=11.8 user=243 Sat Apr 09 07:29:27 PST 12
+	Point 6: x=17.9 y=13.3 user=243 Sat Apr 09 07:39:25 PST 12
+	Point 7: x=18.6 y=11.8 user=243 Sat Apr 09 07:41:19 PST 12
+Trajectory 244
+	Point 1: x=18.6 y=11.8 user=244 Sat Apr 09 09:27:14 PST 12
+	Point 3: x=18.8 y=16.7 user=244 Sat Apr 09 09:31:13 PST 12
+	Point 4: x=20.5 y=15.6 user=244 Sat Apr 09 09:33:21 PST 12
+	Point 5: x=16.5 y=14.2 user=244 Sat Apr 09 09:35:25 PST 12
+	Point 6: x=15.4 y=13.8 user=244 Sat Apr 09 09:41:24 PST 12
+	Point 9: x=15.8 y=13.5 user=244 Sat Apr 09 09:47:25 PST 12
+	Point 10: x=16.6 y=14.2 user=244 Sat Apr 09 09:51:19 PST 12
+	Point 11: x=12.1 y=11.9 user=244 Sat Apr 09 09:53:04 PST 12
+	Point 12: x=15.9 y=13.2 user=244 Sat Apr 09 09:57:12 PST 12
+	Point 16: x=15.0 y=13.2 user=244 Sat Apr 09 10:05:08 PST 12
+	Point 17: x=15.7 y=14.3 user=244 Sat Apr 09 10:07:07 PST 12
+	Point 18: x=12.4 y=11.5 user=244 Sat Apr 09 10:09:07 PST 12
+	Point 19: x=14.1 y=13.6 user=244 Sat Apr 09 10:11:22 PST 12
+	Point 20: x=16.5 y=15.1 user=244 Sat Apr 09 10:15:17 PST 12
+	Point 21: x=31.0 y=23.4 user=244 Sat Apr 09 10:17:16 PST 12
+	Point 22: x=20.0 y=19.1 user=244 Sat Apr 09 10:21:08 PST 12
+	Point 23: x=19.5 y=17.4 user=244 Sat Apr 09 10:23:14 PST 12
+	Point 24: x=11.2 y=16.8 user=244 Sat Apr 09 10:25:20 PST 12
+	Point 25: x=11.2 y=18.0 user=244 Sat Apr 09 10:27:13 PST 12
+	Point 26: x=14.4 y=13.7 user=244 Sat Apr 09 10:29:17 PST 12
+	Point 27: x=18.0 y=14.9 user=244 Sat Apr 09 10:31:20 PST 12
+	Point 28: x=19.2 y=16.3 user=244 Sat Apr 09 10:33:20 PST 12
+	Point 29: x=25.8 y=17.5 user=244 Sat Apr 09 10:35:11 PST 12
+	Point 30: x=21.5 y=13.1 user=244 Sat Apr 09 10:37:18 PST 12
+	Point 31: x=16.3 y=15.6 user=244 Sat Apr 09 10:39:19 PST 12
+	Point 32: x=10.4 y=13.9 user=244 Sat Apr 09 10:41:08 PST 12
+	Point 33: x=8.4 y=18.1 user=244 Sat Apr 09 10:45:19 PST 12
+	Point 34: x=7.8 y=18.0 user=244 Sat Apr 09 10:47:23 PST 12
+	Point 36: x=12.4 y=15.3 user=244 Sat Apr 09 10:51:10 PST 12
+	Point 38: x=10.0 y=16.5 user=244 Sat Apr 09 10:57:18 PST 12
+	Point 39: x=9.2 y=13.4 user=244 Sat Apr 09 10:59:19 PST 12
+	Point 40: x=35.8 y=18.6 user=244 Sat Apr 09 11:03:17 PST 12
+	Point 42: x=35.7 y=18.9 user=244 Sat Apr 09 11:07:09 PST 12
+	Point 43: x=36.8 y=17.0 user=244 Sat Apr 09 11:09:15 PST 12
+	Point 44: x=14.1 y=19.3 user=244 Sat Apr 09 11:11:19 PST 12
+	Point 45: x=10.8 y=14.3 user=244 Sat Apr 09 11:13:10 PST 12
+	Point 46: x=10.0 y=14.0 user=244 Sat Apr 09 11:15:08 PST 12
+	Point 47: x=19.7 y=17.7 user=244 Sat Apr 09 11:17:15 PST 12
+	Point 48: x=19.4 y=15.7 user=244 Sat Apr 09 11:19:11 PST 12
+	Point 49: x=27.3 y=17.0 user=244 Sat Apr 09 11:21:18 PST 12
+	Point 50: x=11.7 y=16.7 user=244 Sat Apr 09 11:23:18 PST 12
+	Point 51: x=6.5 y=18.0 user=244 Sat Apr 09 11:25:18 PST 12
+	Point 52: x=19.5 y=17.0 user=244 Sat Apr 09 11:27:10 PST 12
+	Point 54: x=19.6 y=18.3 user=244 Sat Apr 09 11:33:18 PST 12
+	Point 55: x=9.5 y=12.9 user=244 Sat Apr 09 11:39:14 PST 12
+	Point 56: x=11.6 y=14.2 user=244 Sat Apr 09 11:41:15 PST 12
+	Point 57: x=17.9 y=16.4 user=244 Sat Apr 09 11:43:14 PST 12
+	Point 58: x=21.0 y=22.1 user=244 Sat Apr 09 11:45:29 PST 12
+	Point 59: x=17.0 y=15.9 user=244 Sat Apr 09 11:47:14 PST 12
+	Point 69: x=16.4 y=15.6 user=244 Sat Apr 09 12:07:14 PST 12
+	Point 70: x=11.2 y=16.1 user=244 Sat Apr 09 12:09:12 PST 12
+	Point 71: x=12.4 y=16.8 user=244 Sat Apr 09 12:11:12 PST 12
+	Point 72: x=12.0 y=16.8 user=244 Sat Apr 09 12:15:12 PST 12
+	Point 73: x=13.3 y=17.6 user=244 Sat Apr 09 12:17:12 PST 12
+	Point 74: x=28.3 y=18.1 user=244 Sat Apr 09 12:21:12 PST 12
+	Point 75: x=7.9 y=15.4 user=244 Sat Apr 09 12:23:28 PST 12
+	Point 77: x=14.4 y=12.9 user=244 Sat Apr 09 12:27:12 PST 12
+	Point 78: x=16.8 y=14.4 user=244 Sat Apr 09 12:29:25 PST 12
+	Point 86: x=16.5 y=12.8 user=244 Sat Apr 09 12:47:13 PST 12
+	Point 98: x=17.0 y=12.8 user=244 Sat Apr 09 13:11:11 PST 12
+	Point 100: x=15.2 y=13.4 user=244 Sat Apr 09 13:17:18 PST 12
+	Point 102: x=15.7 y=13.0 user=244 Sat Apr 09 13:23:19 PST 12
+	Point 104: x=13.9 y=12.5 user=244 Sat Apr 09 13:27:20 PST 12
+	Point 105: x=15.0 y=12.5 user=244 Sat Apr 09 13:29:19 PST 12
+	Point 108: x=14.6 y=12.6 user=244 Sat Apr 09 13:35:16 PST 12
+	Point 110: x=14.1 y=12.8 user=244 Sat Apr 09 13:39:08 PST 12
+	Point 111: x=15.6 y=13.1 user=244 Sat Apr 09 13:41:09 PST 12
+	Point 113: x=10.1 y=18.3 user=244 Sat Apr 09 13:45:08 PST 12
+	Point 114: x=12.5 y=17.3 user=244 Sat Apr 09 13:47:16 PST 12
+	Point 115: x=34.3 y=16.2 user=244 Sat Apr 09 13:51:15 PST 12
+	Point 116: x=44.5 y=18.0 user=244 Sat Apr 09 13:53:12 PST 12
+	Point 117: x=12.9 y=17.2 user=244 Sat Apr 09 13:55:16 PST 12
+	Point 118: x=13.6 y=15.8 user=244 Sat Apr 09 13:57:12 PST 12
+	Point 119: x=16.6 y=10.6 user=244 Sat Apr 09 14:01:05 PST 12
+	Point 120: x=17.7 y=8.2 user=244 Sat Apr 09 14:03:16 PST 12
+	Point 121: x=11.5 y=-7.8 user=244 Sat Apr 09 14:05:15 PST 12
+	Point 123: x=15.9 y=4.9 user=244 Sat Apr 09 14:13:10 PST 12
+	Point 124: x=36.0 y=22.4 user=244 Sat Apr 09 14:15:12 PST 12
+	Point 125: x=13.9 y=11.8 user=244 Sat Apr 09 14:17:12 PST 12
+	Point 126: x=14.5 y=12.4 user=244 Sat Apr 09 14:19:14 PST 12
+	Point 127: x=13.8 y=18.9 user=244 Sat Apr 09 14:21:14 PST 12
+	Point 129: x=13.2 y=18.8 user=244 Sat Apr 09 14:25:15 PST 12
+	Point 130: x=13.8 y=17.5 user=244 Sat Apr 09 14:27:15 PST 12
+	Point 131: x=11.8 y=17.0 user=244 Sat Apr 09 14:29:09 PST 12
+	Point 132: x=12.4 y=17.4 user=244 Sat Apr 09 14:33:08 PST 12
+	Point 134: x=12.5 y=18.5 user=244 Sat Apr 09 14:37:07 PST 12
+	Point 137: x=12.5 y=17.7 user=244 Sat Apr 09 14:43:08 PST 12
+	Point 138: x=12.4 y=15.7 user=244 Sat Apr 09 14:45:07 PST 12
+	Point 139: x=12.2 y=16.2 user=244 Sat Apr 09 14:47:08 PST 12
+	Point 140: x=12.1 y=17.3 user=244 Sat Apr 09 14:49:07 PST 12
+	Point 141: x=14.4 y=18.8 user=244 Sat Apr 09 14:51:06 PST 12
+	Point 142: x=13.9 y=18.8 user=244 Sat Apr 09 14:53:12 PST 12
+	Point 143: x=12.4 y=17.8 user=244 Sat Apr 09 14:55:06 PST 12
+	Point 146: x=12.5 y=18.5 user=244 Sat Apr 09 15:01:04 PST 12
+	Point 147: x=10.8 y=16.8 user=244 Sat Apr 09 15:03:02 PST 12
+	Point 148: x=13.6 y=19.0 user=244 Sat Apr 09 15:05:09 PST 12
+	Point 149: x=12.3 y=18.1 user=244 Sat Apr 09 15:07:08 PST 12
+	Point 150: x=13.4 y=17.7 user=244 Sat Apr 09 15:09:14 PST 12
+	Point 151: x=9.1 y=16.9 user=244 Sat Apr 09 15:11:06 PST 12
+	Point 152: x=38.5 y=20.9 user=244 Sat Apr 09 15:13:06 PST 12
+	Point 153: x=17.1 y=13.5 user=244 Sat Apr 09 15:15:08 PST 12
+	Point 154: x=16.2 y=12.6 user=244 Sat Apr 09 15:17:06 PST 12
+	Point 155: x=15.6 y=13.0 user=244 Sat Apr 09 15:19:08 PST 12
+	Point 156: x=10.3 y=18.5 user=244 Sat Apr 09 15:21:16 PST 12
+	Point 157: x=25.5 y=17.3 user=244 Sat Apr 09 15:23:05 PST 12
+	Point 158: x=21.1 y=19.7 user=244 Sat Apr 09 15:25:15 PST 12
+	Point 159: x=33.7 y=18.1 user=244 Sat Apr 09 15:29:13 PST 12
+	Point 160: x=35.2 y=17.1 user=244 Sat Apr 09 15:31:06 PST 12
+	Point 161: x=29.0 y=13.8 user=244 Sat Apr 09 15:33:06 PST 12
+	Point 162: x=29.5 y=18.0 user=244 Sat Apr 09 15:35:05 PST 12
+	Point 163: x=20.0 y=14.5 user=244 Sat Apr 09 15:39:04 PST 12
+	Point 164: x=14.5 y=15.2 user=244 Sat Apr 09 15:41:02 PST 12
+	Point 165: x=12.5 y=15.5 user=244 Sat Apr 09 15:43:04 PST 12
+	Point 166: x=11.3 y=12.9 user=244 Sat Apr 09 15:45:03 PST 12
+	Point 167: x=9.8 y=13.3 user=244 Sat Apr 09 15:47:02 PST 12
+	Point 168: x=19.5 y=16.9 user=244 Sat Apr 09 15:49:12 PST 12
+	Point 169: x=26.7 y=15.4 user=244 Sat Apr 09 15:51:02 PST 12
+	Point 170: x=15.4 y=15.6 user=244 Sat Apr 09 15:53:11 PST 12
+	Point 171: x=22.7 y=18.3 user=244 Sat Apr 09 15:55:03 PST 12
+	Point 173: x=21.3 y=15.9 user=244 Sat Apr 09 15:59:12 PST 12
+	Point 174: x=14.0 y=15.0 user=244 Sat Apr 09 16:01:00 PST 12
+	Point 175: x=10.8 y=16.4 user=244 Sat Apr 09 16:03:02 PST 12
+	Point 176: x=11.8 y=18.3 user=244 Sat Apr 09 16:05:02 PST 12
+	Point 177: x=11.3 y=14.6 user=244 Sat Apr 09 16:07:06 PST 12
+	Point 178: x=17.2 y=13.7 user=244 Sat Apr 09 16:09:02 PST 12
+	Point 180: x=16.8 y=15.7 user=244 Sat Apr 09 16:13:03 PST 12
+	Point 181: x=8.4 y=16.0 user=244 Sat Apr 09 16:15:01 PST 12
+	Point 183: x=8.8 y=15.9 user=244 Sat Apr 09 16:19:03 PST 12
+	Point 184: x=14.1 y=12.1 user=244 Sat Apr 09 16:21:05 PST 12
+	Point 185: x=11.3 y=12.3 user=244 Sat Apr 09 16:23:00 PST 12
+	Point 186: x=11.2 y=18.0 user=244 Sat Apr 09 16:25:02 PST 12
+	Point 187: x=25.6 y=15.9 user=244 Sat Apr 09 16:27:02 PST 12
+	Point 188: x=11.7 y=16.2 user=244 Sat Apr 09 16:29:04 PST 12
+	Point 189: x=8.9 y=14.4 user=244 Sat Apr 09 16:31:00 PST 12
+	Point 190: x=27.1 y=13.9 user=244 Sat Apr 09 16:33:03 PST 12
+	Point 191: x=24.4 y=15.7 user=244 Sat Apr 09 16:35:13 PST 12
+	Point 192: x=12.7 y=14.3 user=244 Sat Apr 09 16:37:04 PST 12
+	Point 193: x=10.7 y=15.9 user=244 Sat Apr 09 16:39:04 PST 12
+	Point 195: x=11.0 y=15.0 user=244 Sat Apr 09 16:43:05 PST 12
+	Point 197: x=7.9 y=15.3 user=244 Sat Apr 09 16:47:04 PST 12
+	Point 198: x=10.2 y=12.0 user=244 Sat Apr 09 16:49:06 PST 12
+	Point 199: x=27.8 y=14.2 user=244 Sat Apr 09 16:51:06 PST 12
+	Point 200: x=16.7 y=13.9 user=244 Sat Apr 09 16:53:04 PST 12
+	Point 202: x=15.1 y=14.6 user=244 Sat Apr 09 16:57:06 PST 12
+	Point 203: x=10.2 y=18.1 user=244 Sat Apr 09 16:59:06 PST 12
+	Point 204: x=11.7 y=14.2 user=244 Sat Apr 09 17:01:04 PST 12
+	Point 205: x=18.6 y=11.8 user=244 Sat Apr 09 17:03:04 PST 12
+Trajectory 245
+	Point 1: x=18.6 y=11.8 user=245 Sun Apr 10 02:28:25 PST 12
+	Point 3: x=17.8 y=15.3 user=245 Sun Apr 10 02:32:25 PST 12
+	Point 5: x=17.7 y=15.3 user=245 Sun Apr 10 02:36:24 PST 12
+	Point 10: x=17.8 y=15.3 user=245 Sun Apr 10 02:46:24 PST 12
+	Point 11: x=18.6 y=11.8 user=245 Sun Apr 10 02:48:24 PST 12
+Trajectory 246
+	Point 1: x=18.6 y=11.8 user=246 Sun Apr 10 03:24:21 PST 12
+	Point 5: x=17.6 y=15.2 user=246 Sun Apr 10 03:34:20 PST 12
+	Point 6: x=18.6 y=11.8 user=246 Sun Apr 10 03:36:19 PST 12
+Trajectory 247
+	Point 1: x=18.6 y=11.8 user=247 Sun Apr 10 06:30:05 PST 12
+	Point 4: x=19.3 y=6.0 user=247 Sat Apr 23 11:01:00 PST 12
+	Point 6: x=20.0 y=6.4 user=247 Sat Apr 23 11:08:13 PST 12
+	Point 8: x=21.2 y=5.8 user=247 Sat Apr 23 11:14:29 PST 12
+	Point 9: x=18.6 y=11.8 user=247 Sat Apr 23 11:17:21 PST 12

@@ -1,0 +1,9 @@
+This application uses a clustering algorithm to take a text file containing a group of lines and their points as (x, y) coordinates and runs a clustering algorithm to group these lines using a TRACULUS distance algorithm that adds the angular distance, perpindicular distance, and parallel distance of two lines together. Each cluster has a minimum of 8 lines. Two lines with a distance between the other one of less than 1 are considered part of the same cluster. Lines that do not have at least 8 lines in their cluster are noise and not outputted to GUI.
+
+Lines that are deemed to be relevant are colored and outputted to the screen as the same color as other lines in the cluster. Lines that are deemed to be "noise" are marked as cluster 0 and not shown on the screen. The goal of this application is to make sense out of large amounts of data and find patterns that make analysis easier and more meaningful.
+
+The distance algorithm used for calculating clusters is based on a formula written about in an academic paper entitled "Trajectory Clustering: A Partition-and-Group Framework" by Jae-gil Lee, Jiawei Han, and Kyu-Young Whang. This paper is included in this folder as "Trajectory Clustering.pdf"
+
+Currently, this program is only designed to work with a single type of text file of set length and particular syntax. Modifying the code to work with other varieties of data points/lines would be trivial should the need arise.
+
+This code was written by Shane Christy and released under GNU GPUv3. Please see gpl.txt.
