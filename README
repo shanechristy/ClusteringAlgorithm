@@ -6,4 +6,4 @@ The distance algorithm used for calculating clusters is based on a formula writt
 
 Currently, this program is only designed to work with a single type of text file of set length and particular syntax. Modifying the code to work with other varieties of data points/lines would be trivial should the need arise.
 
-This code was written by Shane Christy and released under GNU GPUv3. Please see gpl.txt.
+This code was written by Shane Christy and released under GNU GPUv3. Please see LICENSE.
